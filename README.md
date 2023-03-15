@@ -30,7 +30,7 @@ The data set contains the following diseases:
 - Dataset Creation→ Create train & validation dataset from the train directory with a batch size of 32. Also, make sure you resize your images to 180*180.
 - Dataset visualisation → Create a code to visualize one instance of all the nine classes present in the dataset 
 - Model Building & training : 
-*-- Create a CNN model, which can accurately detect 9 classes present in the dataset. While building the model, rescale images to normalize pixel values between (0,1).
+* Create a CNN model, which can accurately detect 9 classes present in the dataset. While building the model, rescale images to normalize pixel values between (0,1).
 *-- Choose an appropriate optimiser and loss function for model training
 *-- Train the model for ~20 epochs
 *-- Write your findings after the model fit. You must check if there is any evidence of model overfit or underfit.
